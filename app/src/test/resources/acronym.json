@@ -1,0 +1,292 @@
+[
+  {
+    "sf": "SSL",
+    "lfs": [
+      {
+        "lf": "sterically stabilized liposomes",
+        "freq": 15,
+        "since": 1997,
+        "vars": [
+          {
+            "lf": "sterically stabilized liposomes",
+            "freq": 12,
+            "since": 1997
+          },
+          {
+            "lf": "Sterically stabilized liposomes",
+            "freq": 1,
+            "since": 2003
+          },
+          {
+            "lf": "sterical stability liposome",
+            "freq": 1,
+            "since": 2005
+          },
+          {
+            "lf": "sterically stabilized' liposomes",
+            "freq": 1,
+            "since": 2002
+          }
+        ]
+      },
+      {
+        "lf": "simulated sunlight",
+        "freq": 14,
+        "since": 1994,
+        "vars": [
+          {
+            "lf": "simulated sunlight",
+            "freq": 5,
+            "since": 1999
+          },
+          {
+            "lf": "simulated solar light",
+            "freq": 4,
+            "since": 1994
+          },
+          {
+            "lf": "solar-simulated light",
+            "freq": 3,
+            "since": 2002
+          },
+          {
+            "lf": "solar simulated light",
+            "freq": 2,
+            "since": 2007
+          }
+        ]
+      },
+      {
+        "lf": "Selective sentinel lymphadenectomy",
+        "freq": 10,
+        "since": 2003,
+        "vars": [
+          {
+            "lf": "Selective sentinel lymphadenectomy",
+            "freq": 5,
+            "since": 2003
+          },
+          {
+            "lf": "selective sentinel lymphadenectomy",
+            "freq": 5,
+            "since": 2003
+          }
+        ]
+      },
+      {
+        "lf": "skin surface lipids",
+        "freq": 8,
+        "since": 1979,
+        "vars": [
+          {
+            "lf": "skin surface lipids",
+            "freq": 5,
+            "since": 1979
+          },
+          {
+            "lf": "Skin surface lipid",
+            "freq": 1,
+            "since": 2004
+          },
+          {
+            "lf": "Skin surface lipids",
+            "freq": 1,
+            "since": 2002
+          },
+          {
+            "lf": "skin-surface lipids",
+            "freq": 1,
+            "since": 2004
+          }
+        ]
+      },
+      {
+        "lf": "supraspinous ligament",
+        "freq": 8,
+        "since": 1989,
+        "vars": [
+          {
+            "lf": "supraspinous ligament",
+            "freq": 4,
+            "since": 1995
+          },
+          {
+            "lf": "sacrospinous ligament",
+            "freq": 3,
+            "since": 2006
+          },
+          {
+            "lf": "supraspinous ligaments",
+            "freq": 1,
+            "since": 1989
+          }
+        ]
+      },
+      {
+        "lf": "Secure Socket Layer",
+        "freq": 6,
+        "since": 2000,
+        "vars": [
+          {
+            "lf": "Secure Socket Layer",
+            "freq": 3,
+            "since": 2000
+          },
+          {
+            "lf": "Security Socket Layer",
+            "freq": 1,
+            "since": 2003
+          },
+          {
+            "lf": "Secure Sockets Layer",
+            "freq": 1,
+            "since": 2002
+          },
+          {
+            "lf": "secure-socket layer",
+            "freq": 1,
+            "since": 2007
+          }
+        ]
+      },
+      {
+        "lf": "spent sulfite liquor",
+        "freq": 5,
+        "since": 2003,
+        "vars": [
+          {
+            "lf": "spent sulfite liquor",
+            "freq": 3,
+            "since": 2003
+          },
+          {
+            "lf": "Spent sulfite pulping liquor",
+            "freq": 2,
+            "since": 2004
+          }
+        ]
+      },
+      {
+        "lf": "sodium stearoyl-2-lactylate",
+        "freq": 5,
+        "since": 1982,
+        "vars": [
+          {
+            "lf": "sodium stearoyl-2-lactylate",
+            "freq": 2,
+            "since": 1982
+          },
+          {
+            "lf": "Sodium stearoyl-2-lactylate",
+            "freq": 1,
+            "since": 2004
+          },
+          {
+            "lf": "sodium stearoyl-2 lactylate",
+            "freq": 1,
+            "since": 2004
+          },
+          {
+            "lf": "Sodium stearoyl-2 lactylate",
+            "freq": 1,
+            "since": 2004
+          }
+        ]
+      },
+      {
+        "lf": "Staphylococcus simulans lipase",
+        "freq": 4,
+        "since": 2001,
+        "vars": [
+          {
+            "lf": "Staphylococcus simulans lipase",
+            "freq": 4,
+            "since": 2001
+          }
+        ]
+      },
+      {
+        "lf": "synthetic sick or lethal",
+        "freq": 3,
+        "since": 2004,
+        "vars": [
+          {
+            "lf": "synthetic sick or lethal",
+            "freq": 3,
+            "since": 2004
+          }
+        ]
+      },
+      {
+        "lf": "subsarcolemmal",
+        "freq": 3,
+        "since": 1981,
+        "vars": [
+          {
+            "lf": "subsarcolemmal",
+            "freq": 2,
+            "since": 1994
+          },
+          {
+            "lf": "Subsarcolemmal",
+            "freq": 1,
+            "since": 1981
+          }
+        ]
+      },
+      {
+        "lf": "steady-state levels",
+        "freq": 3,
+        "since": 1989,
+        "vars": [
+          {
+            "lf": "steady-state levels",
+            "freq": 3,
+            "since": 1989
+          }
+        ]
+      },
+      {
+        "lf": "single skin lesion",
+        "freq": 3,
+        "since": 2000,
+        "vars": [
+          {
+            "lf": "single skin lesion",
+            "freq": 3,
+            "since": 2000
+          }
+        ]
+      },
+      {
+        "lf": "Steller sea lion",
+        "freq": 3,
+        "since": 2002,
+        "vars": [
+          {
+            "lf": "Steller sea lion",
+            "freq": 2,
+            "since": 2002
+          },
+          {
+            "lf": "Steller sea lions",
+            "freq": 1,
+            "since": 2007
+          }
+        ]
+      },
+      {
+        "lf": "Social Support List",
+        "freq": 3,
+        "since": 2006,
+        "vars": [
+          {
+            "lf": "Social Support List",
+            "freq": 3,
+            "since": 2006
+          }
+        ]
+      }
+    ]
+  }
+]

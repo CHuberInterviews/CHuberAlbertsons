@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/acronymSearchFragment">
+
+    <fragment
+        android:id="@+id/acronymSearchFragment"
+        android:name="com.psiance.alberstons_acronym.views.fragment.AcronymSearchFragment"
+        android:label="AcronymSearchFragment" >
+        <action
+            android:id="@+id/action_acronymSearchFragment_to_acronymListFragment"
+            app:destination="@id/acronymListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/acronymListFragment"
+        android:name="com.psiance.alberstons_acronym.views.fragment.ListFragment"
+        android:label="AcronymListFragment" >
+        <action
+            android:id="@+id/action_acronymListFragment_to_acronymDetailsFragment"
+            app:destination="@id/acronymDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/acronymDetailsFragment"
+        android:name="com.psiance.alberstons_acronym.views.fragment.DetailsFragment"
+        android:label="AcronymDetailsFragment" />
+
+</navigation>
